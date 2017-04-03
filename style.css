@@ -1,0 +1,11 @@
+body{
+  height: 1440px;
+  width: 1400px;
+  padding:0px;
+  margin: 0px;
+}
+header{
+  height:10%;
+  width:inherit;
+  background-color: #000000;
+}
