@@ -1,11 +1,25 @@
 body{
   height: 1440px;
-  width: 1400px;
+  width: auto;
   padding:0px;
   margin: 0px;
 }
 header{
-  height:10%;
+  height:129.6px;
   width:inherit;
   background-color: #000000;
+  opacity: .8;
+  margin: 0 auto ;
 }
+.logo{
+  margin: 0 auto;
+  width:auto;
+  height: inherit;
+
+
+}
+#logo{
+   height: 60%;
+   width: auto;
+   margin: 0 auto;
+ }
