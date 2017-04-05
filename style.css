@@ -9,17 +9,45 @@ header{
   width:inherit;
   background-color: #000000;
   opacity: .8;
-  margin: 0 auto ;
-}
-.logo{
   margin: 0 auto;
-  width:auto;
-  height: inherit;
-
-
 }
+
 #logo{
    height: 60%;
    width: auto;
-   margin: 0 auto;
+   margin: 0 45%;
  }
+
+nav{
+  margin:0 auto;
+  width: 57%;
+}
+
+nav a{
+   font-size: 20px;
+   background-color: #000000;
+   border-left: none;
+   border-top: none;
+   border-bottom: none;
+   color: #999999
+ }
+
+a:hover{
+  text-decoration: underline;
+}
+
+#banner{
+  height: 100px;
+  width:inherit;
+  background-color: white;
+
+}
+#banner1{
+  height:inherit;
+  width:inherit;
+  margin: 10px;
+}
+
+#banner:hover{
+  background-color: green;
+}
