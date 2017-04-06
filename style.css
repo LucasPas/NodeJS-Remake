@@ -11,18 +11,15 @@ header{
   opacity: .8;
   margin: 0 auto;
 }
-
 #logo{
    height: 60%;
    width: auto;
    margin: 0 45%;
  }
-
 nav{
   margin:0 auto;
   width: 57%;
 }
-
 nav a{
    font-size: 20px;
    background-color: #000000;
@@ -31,23 +28,57 @@ nav a{
    border-bottom: none;
    color: #999999
  }
-
 a:hover{
   text-decoration: underline;
 }
-
 #banner{
-  height: 100px;
+  height: 200px;
   width:inherit;
   background-color: white;
-
 }
 #banner1{
-  height:inherit;
-  width:inherit;
+  height:90%;
+  width:98%;
   margin: 10px;
 }
-
 #banner:hover{
   background-color: green;
+}
+#text{
+  height:100px;
+  width:inherit;
+  margin: 30px;
+}
+#para{
+  text-align: center;
+  font-size:19px;
+  font-family: Helvetica, sarif;
+  margin: 0 20%;
+}
+#largewindows{
+  height:100px
+  width:inherit;
+  margin: 0px;
+}
+#windows{
+  font-size: 40px;
+  margin: 0px 30%;
+}
+#buttonall{
+  height:100px;
+  width:inherit;
+}
+#dlbutton{
+  height:75px;
+  width:150px;
+  background-color: green;
+  float:left;
+  margin:10px 30%;
+}
+#dlbutton2{
+  height:75px;
+  width:150px;
+  background-color: green;
+  float:left;
+  margin:10px 60%;
 }
