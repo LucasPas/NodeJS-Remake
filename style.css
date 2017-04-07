@@ -1,6 +1,5 @@
 body{
   height: 1440px;
-  width: auto;
   padding:0px;
   margin: 0px;
 }
@@ -42,7 +41,7 @@ a:hover{
   margin: 10px;
 }
 #banner:hover{
-  background-color: green;
+  background-color: #43853d;
 }
 #text{
   height:100px;
@@ -66,19 +65,51 @@ a:hover{
 }
 #buttonall{
   height:100px;
-  width:inherit;
+  width:50%;
+  margin:0 auto;
 }
 #dlbutton{
   height:75px;
-  width:150px;
-  background-color: green;
+  width:200px;
+  background-color: #026e00;
   float:left;
-  margin:10px 30%;
+  margin-right: 75px;
 }
 #dlbutton2{
   height:75px;
-  width:150px;
-  background-color: green;
+  width:200px;
+  background-color: #026e00;
   float:left;
-  margin:10px 60%;
+  margin-left: 100px;
+}
+#text1{
+ text-align: center;
+ font-size: 19px;
+ font-weight: 400;
+ margin: 0 auto;
+}
+#text2{
+ text-align: center;
+ font-size: 18px;
+ font-weight: 400;
+ margin: 0 auto;
+}
+#dlbutton2:hover{
+  opacity: .8;
+}
+#dlbutton:hover{
+  opacity: .8;
+}
+#altdown{
+    height: 35px;
+    width:40%;
+    margin: 0 auto;
+    font-size: 14px;
+}
+#link2{
+    margin-left: 30px;
+}
+#link1{
+    margin-right: 30px;
+    float: left;
 }
