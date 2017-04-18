@@ -1,5 +1,5 @@
 body{
-  height: 1440px;
+  height: 930px;
   padding:0px;
   margin: 0px;
 }
@@ -102,14 +102,25 @@ a:hover{
 }
 #altdown{
     height: 35px;
-    width:40%;
+    width:52%;
     margin: 0 auto;
     font-size: 14px;
 }
-#link2{
-    margin-left: 30px;
-}
 #link1{
-    margin-right: 30px;
+    margin-right: 130px;
     float: left;
+}
+#lowertext{
+  height:35px;
+  width:49%;
+  margin-left: 450px;
+  font-size: 22px;
+}
+footer{
+  height:200px;
+  width:inherit;
+  background-color: #000000;
+  opacity: .8;
+
+
 }
