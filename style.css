@@ -62,6 +62,7 @@ a:hover{
 #windows{
   font-size: 40px;
   margin: 0px 30%;
+  padding-bottom: 15px;
 }
 #buttonall{
   height:100px;
@@ -72,6 +73,7 @@ a:hover{
   height:75px;
   width:200px;
   background-color: #026e00;
+  color:white;
   float:left;
   margin-right: 75px;
 }
@@ -79,6 +81,7 @@ a:hover{
   height:75px;
   width:200px;
   background-color: #026e00;
+  color: white;
   float:left;
   margin-left: 100px;
 }
@@ -93,12 +96,6 @@ a:hover{
  font-size: 18px;
  font-weight: 400;
  margin: 0 auto;
-}
-#dlbutton2:hover{
-  opacity: .8;
-}
-#dlbutton:hover{
-  opacity: .8;
 }
 #altdown{
     height: 35px;
@@ -121,6 +118,11 @@ footer{
   width:inherit;
   background-color: #000000;
   opacity: .8;
-
-
+}
+#copyright{
+  color: white;
+  font-size: 14px;
+  margin: 0 auto;
+  width: 800px;
+  padding-top: 20px;
 }
